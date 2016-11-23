@@ -12,3 +12,7 @@ You can use as many lines as you like
 These comments will be ignored by the
 compiler until the next =cut is encountered.
 =cut
+
+
+$a = 10;
+print "Value of a = $a\n";
